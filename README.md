@@ -30,5 +30,5 @@ IDE: Visual Studio
 Database: JSON file (as the data storage system)
 
 ## **Acknowledgment**
-I, [Sachin MR]([www.linkedin.com/in/mr-sachin](https://www.linkedin.com/in/mr-sachin/)), developed this basic Java AWT project as my first endeavor into Java GUI programming for my college's Java Programming course. This project represents my initial steps in software development, and I am committed to continuously learning and enhancing my skills. I plan to improve and update this project with additional features and optimizations in the future.
+I, [Sachin MR](https://github.com/Sachin-mr), developed this basic Java AWT project as my first endeavor into Java GUI programming for my college's Java Programming course. This project represents my initial steps in software development, and I am committed to continuously learning and enhancing my skills. I plan to improve and update this project with additional features and optimizations in the future.
 
